@@ -1,6 +1,8 @@
 # MentAI AI-Powered Learning Assistant
 An interactive chatbot application built using Streamlit and Groq API, designed to assist with learning Data Science and Full Stack Development. The bot provides detailed answers, code examples, and explanations in response to user queries.
 
+Try out : https://mentai-myapp.streamlit.app/
+
 ---
 
 ## **Features**
@@ -52,7 +54,7 @@ pip install -r requirements.txt
 ---
 
 ## **License**
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [GPL-3.0 license].
 
 ---
 
