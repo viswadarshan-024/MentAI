@@ -54,11 +54,10 @@ pip install -r requirements.txt
 ---
 
 ## **License**
-This project is licensed under the [GPL-3.0 license].
+This project is licensed under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ---
 
 ## **Contributing**
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
----
