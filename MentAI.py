@@ -5,7 +5,7 @@ import os
 
 # Initialize Groq client
 client = Groq(
-    api_key='YOUR_API_KEY',
+    api_key='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',
 )
 
 # File for storing chat history
